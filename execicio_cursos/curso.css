@@ -1,0 +1,37 @@
+h1 {
+    color: black;
+    font-family: Arial;
+    text-align: center;
+}
+div{
+    background-color: black;
+    border-radius: 30px;
+    padding: 25px;
+    border: 15px solid #fff;
+    width: 500px;
+    margin: 20px auto;
+}
+
+h2{
+    color: white;
+    font-family: Arial;
+}
+
+p{
+    color: #808080;
+    font-family: Arial;
+}
+
+span {
+    color: #febe01;
+    font-family: Arial;
+}
+
+button {
+    color: #332200;
+    background-color: #febe01;
+    border-radius: 5px;
+    padding: 7px;
+    font-family: Arial;
+}
+
